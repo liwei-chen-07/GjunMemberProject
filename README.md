@@ -27,7 +27,7 @@
 
 <hr>
 
-[講義](/doc/6_Java EE Application.pdf)
+[講義](/doc/6_Java_EE.pdf)
 
 <ul type="disk">
 <li>台北捷運板南線</li>
