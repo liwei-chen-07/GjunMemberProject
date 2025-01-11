@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="MemberOut" method="post">
+	<table width=400 align=center border=1>
+			<tr>
+				<td colspan=2 align=center>
+				<h3>會員基本資料</h3>
+			<tr>
+				<td width=100>姓名</td>
+				<td><input type="text" name="name"></td>
+			<tr>
+				<td width=100>電話</td>
+				<td><input type="text" name="phone"></td>
+			<tr>
+				<td width=100>地址</td>
+				<td><input type="text" name="address"></td>
+			<tr>
+				<td width=100>性別</td>
+				<td>
+				<input type="radio" name="gender" value="男">男
+				<input type="radio" name="gender" value="女">女
+				</td>
+			<tr>
+				<td width=100>興趣</td>
+				<td>
+				<input type="checkbox" name="interest" value="音樂">音樂
+				<input type="checkbox" name="interest" value="運動">運動
+				<input type="checkbox" name="interest" value="電影">電影
+				</td>
+			<tr>
+				<td width=100>職業</td>
+				<td>
+					<select name="career">
+						<option value="金融">金融
+						<option value="教育">教育
+						<option value="資訊">資訊
+					</select>
+				</td>
+			<tr>
+				<td width=100>備註</td>
+				<td><textarea rows=5 cols=30 name="memo"></textarea></td>
+			<tr>
+				<td colspan=2 align=center>
+				<input type="submit" value="送出">
+				<input type="reset" value="重設">
+	</table>
+</form>
+</body>
+</html>
