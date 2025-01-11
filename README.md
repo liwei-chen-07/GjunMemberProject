@@ -27,7 +27,7 @@
 
 <hr>
 
-[講義](/doc/6_Java_EE.pdf)
+[README講義](/doc/6_Java_EE.pdf)
 
 ![伊布](/pic/Eevee.png)
 <hr>
