@@ -1,0 +1,8 @@
+SELECT * FROM company.member;
+
+select id,name,type from company.member;
+select * from company.member;
+#select * from company.member where address='宇宙';
+#select * from company.member where id>=3 and type<3;
+update company.member set name='teacher',address='台北市' where id=6;
+delete from company.member where id=7;
