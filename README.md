@@ -26,11 +26,9 @@
 [1z0-900](https://education.oracle.com/zh_TW/java-ee-7-application-developer/pexam_1Z0-900)
 
 <hr>
-
 [講義](/doc/6_Java_EE.pdf)
-
 ![伊布](/pic/Eevee.png)
-
+<hr>
 <ul type="disk">
 <li>台北捷運板南線</li>
 <li>台北捷運淡水線</li>
